@@ -56,9 +56,11 @@ The purpose of this analysis using VBA in Excel was to refactor the Module 2 sol
 9. The pop-up messages showing the elapsed run time for the script are saved as VBA_Challenge_2017.png and VBA_Challenge_2018.png
 
 *Time on VBA_Challenge_2017.png*
+
 <img width="555" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/93107507/142786158-8032eb55-d938-4c68-a490-e7dc01bd3846.png">
 
 *Time on VBA_Challenge_2018.png*
+
 <img width="611" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/93107507/142786170-4cb8b58f-ba65-4e38-887b-a6b689d52fe4.PNG">
 
 
