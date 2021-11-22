@@ -49,8 +49,8 @@ The purpose of this analysis using VBA in Excel was to refactor the Module 2 sol
 
 
 **Output from Refactored Code
-![image](https://user-images.githubusercontent.com/93107507/142785757-9d56b6de-cf72-4e1d-a1f1-523c4600f911.png)
 
+![image](https://user-images.githubusercontent.com/93107507/142785757-9d56b6de-cf72-4e1d-a1f1-523c4600f911.png)
 ![image](https://user-images.githubusercontent.com/93107507/142785768-71ba25c4-100c-43e5-a7ee-aea349956ad8.png)
 
 
